@@ -1,4 +1,5 @@
 <div align="center">
+  
 <h1>Simple Telemetry Remover</h1>
 
 100% Open-Source / Extremely lightweight / 31 Features / Windows 7-11 / Windows Server 2008 R2-2025 <br>
@@ -12,6 +13,7 @@ Preserves system stability / No internet required / Fast and easy to use / MIT L
 <h1>Full Cleaning List [v26.11]</h1>
 
 <div align="left">
+  
 ### Core Telemetry & Diagnostic Services
 - DiagTrack
 - dmwappushservice
