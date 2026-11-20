@@ -1,3 +1,6 @@
+MIT License
+Copyright (c) 2026 Giefek
+
 @echo off
 title Simple Telemetry Remover v26.11
 setlocal EnableDelayedExpansion
